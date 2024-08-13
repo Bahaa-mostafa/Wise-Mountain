@@ -1,0 +1,28 @@
+@font-face {
+    font-family:Rubik-Bold ;
+    src: url(../Fonts/static/Rubik-Bold.ttf);
+}
+@font-face {
+    font-family:Rubik-SemiBold ;
+    src: url(../Fonts/static/Rubik-SemiBold.ttf);
+}
+@font-face {
+    font-family:Rubik-Medium ;
+    src: url(../Fonts/static/Rubik-Medium.ttf);
+}
+@font-face {
+    font-family:ExtraBold ;
+    src: url(../Fonts/static/Rubik-ExtraBold.ttf);
+}
+@font-face {
+    font-family:Regular ;
+    src: url(../Fonts/static/Rubik-Regular.ttf);
+}
+@font-face {
+    font-family:Tii ;
+    src: url(../Fonts/static/Poppins-Tiiiin.ttf);
+}
+@font-face {
+    font-family:rubik-light;
+    src: url(../Fonts/static/Rubik-Light.ttf);
+}
